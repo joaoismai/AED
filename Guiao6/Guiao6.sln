@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guiao6", "Guiao6\Guiao6.csproj", "{2F597DD0-1891-41DE-85E8-FDD4987A6765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F597DD0-1891-41DE-85E8-FDD4987A6765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F597DD0-1891-41DE-85E8-FDD4987A6765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F597DD0-1891-41DE-85E8-FDD4987A6765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F597DD0-1891-41DE-85E8-FDD4987A6765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827698C4-1D9D-47BC-A42B-3E4E88A46209}
+	EndGlobalSection
+EndGlobal
