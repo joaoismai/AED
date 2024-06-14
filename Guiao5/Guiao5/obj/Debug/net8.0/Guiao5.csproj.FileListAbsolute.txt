@@ -1,0 +1,14 @@
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\Guiao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\Guiao5.AssemblyInfoInputs.cache
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\Guiao5.AssemblyInfo.cs
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\Guiao5.csproj.CoreCompileInputs.cache
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\bin\Debug\net8.0\Guiao5.exe
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\bin\Debug\net8.0\Guiao5.deps.json
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\bin\Debug\net8.0\Guiao5.runtimeconfig.json
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\bin\Debug\net8.0\Guiao5.dll
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\bin\Debug\net8.0\Guiao5.pdb
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\Guiao5.dll
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\refint\Guiao5.dll
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\Guiao5.pdb
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\Guiao5.genruntimeconfig.cache
+C:\Users\joaopg\source\repos\Guiao5\Guiao5\obj\Debug\net8.0\ref\Guiao5.dll
